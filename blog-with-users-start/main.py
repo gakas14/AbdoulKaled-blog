@@ -1,4 +1,4 @@
-import os, DATABASE_URL
+import os
 from datetime import date
 from functools import wraps
 
